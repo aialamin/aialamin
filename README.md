@@ -1,213 +1,139 @@
-# Hi there, I'm Al Amin 👋
+<!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Md.%20Al-Amin%20Hossain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p>
-
-<h3 align="center">
-🚀 Full Stack Developer • WordPress Expert • AI Automation Specialist
-</h3>
-
-<p align="center">
-Helping businesses scale with <strong>modern web development</strong>, <strong>automation</strong>, and <strong>digital solutions</strong> since 2016.
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=260&section=header&text=Md.%20Al-Amin%20Hossain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-<a href="https://github.com/aialamin">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/marketeralamin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:alaminhabibul@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=WordPress+Developer+%7C+MERN+Engineer;AI+Automation+%7C+CRM+Expert;SEO+%7C+Digital+Marketing+Specialist;Spring+Boot+%7C+Java+Developer;Building+Scalable+Digital+Systems" />
 </p>
 
 ---
 
-## 💫 About Me
+## 👋 About Me
 
-I'm a multi-skilled developer and freelancer with **9+ years of experience**, helping businesses worldwide build scalable digital solutions.
+Freelance **Full-Stack Developer & Digital Growth Specialist** helping businesses scale since **2016**.
 
-I specialize in:
-
-✅ WordPress Development
-✅ MERN Stack Applications
-✅ Java Spring Boot Development
-✅ AI Workflow Automation
-✅ HubSpot CRM & Business Automation
-✅ SEO & Digital Marketing
-✅ Virtual Assistance & Operations Support
-
-I combine **development + automation + marketing** to help companies grow faster and smarter.
+I build:
+- ⚡ High-performance web applications (MERN / Spring Boot)
+- 🧠 AI-powered automation systems
+- 📈 SEO & marketing funnels that convert
+- 🔧 CRM workflows (HubSpot, Zapier)
+- 🌐 WordPress + custom CMS solutions
 
 ---
 
-## 🚀 Professional Highlights
+## 📊 Key Metrics
 
 <p align="center">
 
-💼 **270+ Projects Completed**
-🌍 **250+ Global Clients Served**
-⭐ **4.9 Average Client Rating**
-🕒 **9+ Years Experience**
-💰 **$20K+ Upwork Earnings**
-⏱️ **2,735+ Upwork Hours**
-📈 **800+ Social Accounts Managed**
-🌐 **80+ WordPress Websites Delivered**
+| Metric | Value |
+|--------|------|
+| 👨‍💼 Clients | 250+ |
+| 🚀 Projects | 270+ |
+| ⏳ Experience | 9+ Years |
+| 💰 Upwork Earnings | $20K+ |
+| ⏱ Upwork Hours | 2,700+ |
+| ⭐ Rating | 4.9 / 5 |
+| 🌍 Websites Built | 80+ |
+| 📣 Social Accounts Managed | 800+ |
 
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
-### Frontend & Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,java,spring,firebase" />
+### 💻 Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,java,spring,tailwind" />
 </p>
 
-### CMS & Marketing
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=wordpress" />
-
-<img src="https://img.shields.io/badge/SEO-00C853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HubSpot_CRM-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
+### 🧠 AI & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=chatgpt,firebase,vercel,github" />
 </p>
 
-### AI & Automation
-
-<p align="center">
-
+<p>
+<img src="https://img.shields.io/badge/Claude_AI-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Automation-6366F1?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
 </p>
 
 ---
 
-## 🔥 Featured Expertise
+## 🧩 Services
 
-```txt
-✔ Full Stack MERN Applications
-✔ WordPress Websites & Optimization
-✔ Spring Boot & Java Development
-✔ HubSpot CRM Management
-✔ SEO & Digital Marketing
-✔ Landing Pages & Funnels
-✔ AI Workflow Automation
-✔ Bug Fixing & Performance Optimization
-```
+- 🌐 Web Development (React / WordPress / MERN)
+- ⚙️ Backend Systems (Node.js / Spring Boot)
+- 📈 SEO & Growth Marketing
+- 🔁 Automation (Zapier / AI workflows)
+- 🧠 CRM Setup (HubSpot)
+- 🎯 Landing Pages & Funnels
+- 🛠 Bug Fixing & Optimization
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aialamin&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aialamin&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aialamin&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aialamin&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aialamin&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aialamin&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
+
+- Google Ads Certified
+- Google Analytics Certified
+- HubSpot CRM Certified
+- Java (HackerRank Certified)
+- IsDB-BISEW JEE Certification
+
+---
+
+## 🧰 Tools I Use Daily
+
+`Git` `GitHub` `VS Code` `Figma` `Postman` `Firebase` `Photoshop`
+
+Business Tools:
+- HubSpot
+- Trello
+- Slack
+- Airtable
+- Mailchimp
+- Canva
+- Google Workspace
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aialamin&theme=algolia&no-frame=true&row=1&margin-w=15"/>
+<a href="https://github.com/aialamin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:alaminhabibul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 💡 Quote
 
 <p align="center">
-<img src="https://github.com/aialamin/aialamin/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📜 Certifications
-
-* Google Ads Certification
-* Google Analytics Certification
-* HubSpot CRM Certification
-* HackerRank Java Certification
-* IsDB-BISEW JEE Certification
-
----
-
-## ⚡ Daily Tools
+## 🚀 Closing
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=github,git,vscode,figma,photoshop,postman,firebase" />
-</p>
-
----
-
-## 💬 Client Feedback
-
-> “Exceptional communication and quality work.”
-
-> “Highly proactive and reliable.”
-
-> “Delivered beyond expectations.”
-
-> “Strong expertise in WordPress, HubSpot & automation.”
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/aialamin">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/marketeralamin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://facebook.com/marketeralamin">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/marketeralamin">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:alaminhabibul@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">
-💡 Building Digital Solutions That Help Businesses Grow
-</h3>
-
-<p align="center">
-Thanks for visiting my profile ❤️
+<b>Building scalable digital systems that grow businesses.</b><br/>
+Thanks for visiting ⭐
 </p>
